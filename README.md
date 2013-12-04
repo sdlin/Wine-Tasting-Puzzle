@@ -1,7 +1,7 @@
 Wine-Tasting-Puzzle
 ===================
 
-This is a simple solution to the wine tasting puzzle.  In the wine tasting puzzle, there are X types of wine, and N people.  Each person has a set of preferred wine types.  The goal is to give as many bottles of wine out to the people, subject to the following constraints:
+This is a simple solution to the wine tasting puzzle.  In the wine tasting puzzle, there are X types of wine, and N people.  Each person has a set of preferred wine types.  The goal is to give as many bottles of wine out to the people, subject to the following constraints: <br />
 	a) only one bottle of each type of wine may be given out <br />
 	b) a person can only be given a bottle of wine of a type that is in the person's set of preferred wines <br />
 	c) a person can only receive up to 3 bottles of wine <br />
